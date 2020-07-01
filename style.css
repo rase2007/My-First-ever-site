@@ -1,0 +1,64 @@
+body{margin: 0;
+    font-family: 'Poppins', sans-serif;}
+h1{font-size: 50px;
+}
+.name-highlight{
+    color: orangered;
+}
+.half-width{ width: 40%;
+float: left;
+margin-left: 5%;
+padding-left: 2%;
+}
+.half-width img{width: 100%;}
+.top-bannar{background-image: url('header-bg.png');
+    background-repeat: no-repeat;
+}
+section{ height: 500px;
+    padding-bottom:150px;
+}
+.link-button{text-decoration: none;
+background-image: linear-gradient(45deg, orangered, orange);
+padding: 10px 20px;
+border-radius: 8px;
+color: white;
+font-weight: 700;
+}
+h2{font-size: 40px;}
+p{color: dimgray;}
+.dream-area{background-image: url("home-banner.png");
+background-repeat: no-repeat;
+background-position: right;
+}
+
+.email{background-image: url('footer-bg.png');
+
+}
+
+.field{color: orangered; box-shadow: 10px 20px 40px gray; border-radius: 10px; text-shadow: 2px 2px 3px orange; }
+  button{ padding: 8px 40px; border: white;
+border-radius: 8px; 
+color: white;font-weight: 700;background-image: linear-gradient(45deg, orangered, orange);
+font-size: 20px; box-shadow: 8px 10px 10px gray
+}
+input{ padding: 10px 20px; border:white;
+box-shadow: 5px 3px 3px gray; border-radius: 10px;}
+.text{box-shadow: 8px 10px 10px gray; border-radius: 15px; border: white; }
+.input{border: white;}
+ .table{ border:white; border-radius: 10px; box-shadow: 10px 20px 40px gray; color: white; background-image: linear-gradient(-45deg,rgba(255, 166, 0, 0.664), rgba(255, 81, 0, 0.925));
+
+}
+.ras{ font-size: 25px; font-family: tahoma; font-size: 30px; }
+.address{ display:block; text-align: center; font-size: 20px; }
+
+.box-sizing{border: box;}
+.column{float: left;
+width:31.33%;
+padding: 6px;
+
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
