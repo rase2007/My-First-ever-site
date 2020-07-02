@@ -26,7 +26,7 @@ font-weight: 700;
 }
 h2{font-size: 40px;}
 p{color: dimgray;}
-.dream-area{background-image: url("home-banner.png");
+.dream-area{background-image: url('home-banner.png');
 background-repeat: no-repeat;
 background-position: right;
 }
